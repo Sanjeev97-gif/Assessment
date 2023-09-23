@@ -1,1 +1,2 @@
 # Assessment
+Document how to set up and use your repository, including instructions for configuring environment variables, running Terraform, and deploying Airflow or data pipelines. This is a high-level example to get you started. You'll need to customize the code and configurations based on your specific cloud provider (AWS, Azure, etc.), database choices, and any other requirements. Additionally, you should consider securing sensitive information such as access keys and passwords using a secrets management solution
