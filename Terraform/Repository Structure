@@ -1,0 +1,17 @@
+├── formation/
+│   ├── create.sql
+├── airflow/
+│   ├── dags/
+│   │   ├── end_to_end.py
+├── elt/
+│   ├── staging/
+│   │   ├── staging.sql
+│   ├── dw/
+│   │   ├── dw.sql
+├── .github/
+│   ├── workflows/
+│   │   ├── deploy.yml (GitHub Actions workflow file)
+├── main.tf (Terraform main configuration file)
+├── variables.tf (Terraform variables file)
+├── outputs.tf (Terraform outputs file)
+├── README.md
